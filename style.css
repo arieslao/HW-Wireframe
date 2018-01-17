@@ -1,0 +1,53 @@
+
+body {
+    background-color: #777;
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#Header {
+    background-color: #ebebeb;
+    width: 960px;
+}
+
+#Nav {
+    background-color: #ebebeb;
+    width: 960px;
+}
+
+#Footer {
+    background-color: #ebebeb;
+    width: 960px;
+}
+
+#Section {
+    background-color: #ebebeb;
+    width: 495px;
+    float: left;
+}
+
+#Aside {
+    background-color: #ebebeb;
+    float: right;
+}
+
+#Article {
+    color: white;
+}
+
+.clear {
+
+}
+
+h1 {
+    background-color: #ebebeb;
+    padding: 10px;
+}
+
+p {
+    background-color: #ebebeb;
+    padding: 10px;
+}
+
+
